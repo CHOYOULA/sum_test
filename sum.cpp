@@ -4,6 +4,7 @@ int sum(int n){
 	for(int count = 1; count <= n; count++)
 	{
 		sum += count;
+
 	}
 	return sum;
 }
